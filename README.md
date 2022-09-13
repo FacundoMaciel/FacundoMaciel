@@ -20,5 +20,5 @@ Full Stack Web developer🖥️. Me gusta desarrollar en el ambito front-end, bu
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_wordmark_logo_icon_146349.png" alt="Sequelize" width="80" height="60"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png" alt="Git" width="50" height="50"/>
 <img src="https://miro.medium.com/max/1800/1*HTy1M1eFC7GoW6odSukQVw.png" alt="Express" width="80" height="50"/>
-<img src="https://th.bing.com/th/id/R.2441cb996a3afd2ae91cf88fe008a623?rik=Y4dvtTYDsow8Lw&pid=ImgRaw&r=0" alt="Tailwind" width="80" height="60"/>
+<img src="https://th.bing.com/th/id/R.2441cb996a3afd2ae91cf88fe008a623?rik=Y4dvtTYDsow8Lw&pid=ImgRaw&r=0" alt="Tailwind" width="100" height="70"/>
 </div>
