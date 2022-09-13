@@ -46,14 +46,13 @@ E-commerce de productos tecnologicos, con variedad pero mas orientado al publico
 <details>
   <summary> PI-foods</summary>
 
-# <img align='center' src="https://github.com/Luem2/Luem2/raw/main/assets/logo-dibujo-2.png" width='100'/> RGBTech
+# <img align='center' src="https://github.com/lvlaciel/Pi-Food/raw/main/cooking.png" width='100'/> App-Foods
 
 ### Descripción:
 
-E-commerce de productos tecnologicos, con variedad pero mas orientado al publico gamer. Podras ver laptos, teclados, ofertas y registrarte para aprovecharlas, también tiene amplias funcionalidades para el administrador y mas cosas que podras ver aquí:
+App de recetas de comidas de todo tipo, podras buscar, ordenar, filtrar y crear tu receta propia.
 
-- **Link Deploy**: <a href='https://rgbtech.vercel.app/'>https://rgbtech.vercel.app/</a>
-- **Link Repositorio**: <a href='https://github.com/RGBTech-PF/rgbtech'>https://github.com/RGBTech-PF/rgbtech</a>
+- **Link Repositorio**: <a href="https://github.com/lvlaciel/Pi-Food">https://github.com/RGBTech-PF/rgbtech</a>
   <a href='https://rgbtech.vercel.app/'>
   </a>
 
@@ -62,8 +61,8 @@ E-commerce de productos tecnologicos, con variedad pero mas orientado al publico
 ## 📫 Contactame por cualquier consulta, oferta, crítica, etc:
 
 <p>
-    <a href="https://facundomaciel12@hotmail.com">
-      <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
+    <a href="https://outlook.live.com/owa/">
+      <img align="center" src="https://th.bing.com/th/id/R.83d81689402c8345a0b7d2a72233229c?rik=poOmtqDmhWW6oA&riu=http%3a%2f%2fdownload.seaicons.com%2ficons%2fiynque%2fios7-style%2f1024%2fMail-icon.png&ehk=nRKhQN0cECmGVPkpwDOdycjiAzdNe%2f%2btXwIMoSQ%2baxs%3d&risl=&pid=ImgRaw&r=0" width="43" height="43"/>
       facundomaciel12@hotmail.com
     </a>    
     <br>
