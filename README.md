@@ -2,7 +2,7 @@
 # **Hola!, Soy [Facundo Maciel](https://www.linkedin.com/in/facundo-maciel-8843a7241/)**
 
 
-Full Stack Web developer🖥️. Me gusta desarrollar en el ambito front-end, busco capacitarme constantemente me ilusiona aprender lenguajes nuevos de programacion como asi tambien completar mis conocimientos, me agrada colaborar y aportar al equipo en cualquier cosa que sea necesaria para cumplir el objetivo.
+Full Stack Web developer de Corrientes, Argentina. Me gusta desarrollar en el ámbito front-end, busco capacitarme constantemente me ilusiona aprender lenguajes nuevos de programacion como asi tambien completar mis conocimientos, me agrada colaborar y aportar al equipo en cualquier cosa que sea necesaria de cualquier ámbito para cumplir el objetivo.
 
 <div align="center" >
       <img align="center" src="https://datahouse.asia/wp-content/uploads/2020/08/19S3JhMtLGiacpNpziWGN1A.gif" width="600" height="225"  />
@@ -23,5 +23,5 @@ Full Stack Web developer🖥️. Me gusta desarrollar en el ambito front-end, bu
 <img src="https://www.luckymedia.dev/_next/image?url=https:%2F%2Fcdn.sanity.io%2Fimages%2Fgnb2el0l%2Fproduction%2F4c39e4c1385465f63d4da4dd51b3ad8df9c3c8e7-1920x500.png&w=3840&q=75" alt="Tailwind" width="140" height="50"/>
 <img src="https://blog.scottlogic.com/mmcalroy/assets/postmanLogo.png" alt="Postman" width="60" height="50"/>
 <img src="https://th.bing.com/th/id/R.c656c6d6564696c93536b18b1ba17c96?rik=MOHmg6enYWUaFg&riu=http%3a%2f%2fblog.jandi.com%2fko%2fwp-content%2fuploads%2fsites%2f4%2f2018%2f11%2ftrello-logo-1024x315.png&ehk=K7626RpB8iy92muDI1leENL8DZjdKRaGs7hCY0DwBAY%3d&risl=&pid=ImgRaw&r=0" alt="Trello" width="90" height="50"/>
-
+<img src="https://th.bing.com/th/id/R.ca70d96a25538b2971e5ab173e2e9e9d?rik=%2fPrr1m2N%2bVQaSA&pid=ImgRaw&r=0" alt="Postman" width="60" height="50"/>
 </div>
