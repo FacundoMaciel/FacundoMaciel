@@ -2,7 +2,7 @@
 # **Hola!, Soy [Facundo Maciel](https://www.linkedin.com/in/facundo-maciel-8843a7241/)**
 
 
-Full Stack Web developer🖥️. Me gusta desarrollar en el ambito front-end, busco capacitarme constantemente me ilusiona aprender lenguajes de programacion como asi tambien mejorar en lo aprendido, me agrada colaborar y aportar al equipo en cualquier cosa que sea necesaria.
+Full Stack Web developer🖥️. Me gusta desarrollar en el ambito front-end, busco capacitarme constantemente me ilusiona aprender lenguajes nuevos de programacion como asi tambien completar mis conocimientos, me agrada colaborar y aportar al equipo en cualquier cosa que sea necesaria para cumplir el objetivo.
 
 <div align="center" >
       <img align="center" src="https://datahouse.asia/wp-content/uploads/2020/08/19S3JhMtLGiacpNpziWGN1A.gif" width="600" height="225"  />
