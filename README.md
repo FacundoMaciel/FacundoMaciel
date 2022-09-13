@@ -22,6 +22,6 @@ Full Stack Web developer🖥️. Me gusta desarrollar en el ambito front-end, bu
 <img src="https://miro.medium.com/max/1800/1*HTy1M1eFC7GoW6odSukQVw.png" alt="Express" width="80" height="50"/>
 <img src="https://www.luckymedia.dev/_next/image?url=https:%2F%2Fcdn.sanity.io%2Fimages%2Fgnb2el0l%2Fproduction%2F4c39e4c1385465f63d4da4dd51b3ad8df9c3c8e7-1920x500.png&w=3840&q=75" alt="Tailwind" width="140" height="50"/>
 <img src="https://blog.scottlogic.com/mmcalroy/assets/postmanLogo.png" alt="Postman" width="60" height="50"/>
-<img src="https://th.bing.com/th/id/R.64acfbfbb6c3362847c1fdccbdecc39b?rik=fVzu4KapqAnWUA&pid=ImgRaw&r=0" alt="Trello" width="80" height="50"/>
+<img src="https://th.bing.com/th/id/R.c656c6d6564696c93536b18b1ba17c96?rik=MOHmg6enYWUaFg&riu=http%3a%2f%2fblog.jandi.com%2fko%2fwp-content%2fuploads%2fsites%2f4%2f2018%2f11%2ftrello-logo-1024x315.png&ehk=K7626RpB8iy92muDI1leENL8DZjdKRaGs7hCY0DwBAY%3d&risl=&pid=ImgRaw&r=0" alt="Trello" width="90" height="50"/>
 
 </div>
