@@ -52,8 +52,8 @@ E-commerce de productos tecnologicos, con variedad pero mas orientado al publico
 
 App de recetas de comidas de todo tipo, podras buscar, ordenar, filtrar y crear tu receta propia.
 
-- **Link Repositorio**: <a href="https://github.com/lvlaciel/Pi-Food">https://github.com/RGBTech-PF/rgbtech</a>
-  <a href='https://rgbtech.vercel.app/'>
+- **Link Repositorio**: <a href="https://github.com/lvlaciel/Pi-Food">https://github.com/lvlaciel/Pi-Food</a>
+  <a href="https://github.com/lvlaciel/Pi-Food">
   </a>
 
 </details>
