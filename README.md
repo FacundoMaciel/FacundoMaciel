@@ -58,7 +58,7 @@ App de recetas de comidas de todo tipo, podras buscar, ordenar, filtrar y crear 
 
 </details>
 
-## 📫 Contactame por cualquier consulta, oferta, crítica, etc:
+## 📫 Contactame por cualquier consulta, oferta o recomendación :
 
 <p>
     <a href="https://outlook.live.com/owa/">
