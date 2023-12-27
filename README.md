@@ -2,10 +2,10 @@
 # **Hola!, Soy [Facundo Maciel](https://www.linkedin.com/in/facundo-maciel-8843a7241/)** 👋🏻
 
 💻
-Full Stack Web developer de Corrientes, Argentina. Me gusta desarrollar en el ámbito front-end, busco capacitarme constantemente me ilusiona aprender lenguajes nuevos de programacion como asi tambien completar mis conocimientos, me agrada colaborar y aportar al equipo en cualquier cosa que sea necesaria de cualquier ámbito para cumplir el objetivo.
+Full Stack Web developer de Corrientes, Argentina. Un poco mas inclinado al ámbito front-end, busco capacitarme constantemente para complementar mis conocimientos, me agrada colaborar y aportar al equipo en cualquier cosa que sea necesaria. Flexible a cualquier ámbito para cumplir los objetivos.
 
 <div align="center" >
-      <img align="center" src="https://datahouse.asia/wp-content/uploads/2020/08/19S3JhMtLGiacpNpziWGN1A.gif" width="600" height="225"  />
+      <img align="center" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" width="300" height="350"  />
 </div> 
 
 <h1 align="center">🧰 Lenguajes y herramientas </h1>
