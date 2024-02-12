@@ -26,38 +26,6 @@ Full Stack Web developer de Corrientes, Argentina. Un poco mas inclinado al ámb
 <img src="https://th.bing.com/th/id/R.ca70d96a25538b2971e5ab173e2e9e9d?rik=%2fPrr1m2N%2bVQaSA&pid=ImgRaw&r=0" alt="Postman" width="60" height="50"/>
 </div>
 
-## ⚙️ Mis Proyectos
-<details>
-  <summary> RGBTech</summary>
-
-# <img align='center' src="https://github.com/Luem2/Luem2/raw/main/assets/logo-dibujo-2.png" width='100'/> RGBTech
-
-### Descripción:
-
-E-commerce de productos tecnologicos, con variedad pero mas orientado al publico gamer. Podras ver laptos, teclados, ofertas y registrarte para aprovecharlas, también tiene amplias funcionalidades para el administrador y mas cosas que podras ver aquí:
-
-- **Link Deploy**: <a href='https://rgbtech.vercel.app/'>https://rgbtech.vercel.app/</a>
-- **Link Repositorio**: <a href='https://github.com/RGBTech-PF/rgbtech'>https://github.com/RGBTech-PF/rgbtech</a>
-  <a href='https://rgbtech.vercel.app/'>
-  </a>
-
-</details>
-
-<details>
-  <summary> PI-foods</summary>
-
-# <img align='center' src="https://github.com/lvlaciel/Pi-Food/raw/main/cooking.png" width='100'/> App-Foods
-
-### Descripción:
-
-App de recetas de comidas de todo tipo, podras buscar, ordenar, filtrar y crear tu receta propia.
-
-- **Link Repositorio**: <a href="https://github.com/lvlaciel/Pi-Food">https://github.com/lvlaciel/Pi-Food</a>
-  <a href="https://github.com/lvlaciel/Pi-Food">
-  </a>
-
-</details>
-
 ## 📫 Contactame por cualquier consulta, oferta o recomendación :
 
 <p>
