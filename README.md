@@ -2,7 +2,9 @@
 # **Hola!, Soy [Facundo Maciel](https://www.linkedin.com/in/facundo-maciel-8843a7241/)** 👋🏻
 
 💻
-Full Stack Web developer de Corrientes, Argentina. Un poco mas inclinado al ámbito front-end, busco capacitarme constantemente para complementar mis conocimientos, me agrada colaborar y aportar al equipo en cualquier cosa que sea necesaria. Flexible a cualquier ámbito para cumplir los objetivos.
+Full Stack Web Developer, soy de Corrientes, Argentina
+Apasionado por la tecnología y el aprendizaje continuo. Actualmente profundizando en blockchain para complementar mi experiencia en desarrollo web y automatización.
+Me destaco por ser flexible, proactivo y orientado a resultados, capaz de adaptarme a distintos proyectos y entornos, gestionando múltiples tareas sin perder calidad ni enfoque.
 
 <div align="center" >
       <img align="center" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" width="300" height="350"  />
