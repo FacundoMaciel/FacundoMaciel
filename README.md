@@ -1,6 +1,6 @@
 <div align="left" style="animation: fadeInDown 0.8s ease-in-out;">
   <h1>
-    👋 Welcome to My Profile
+    👋 Welcome
     <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IWW3s7aw8OK4a6VVuXJbKtIw/giphy.gif" width="30px" alt="wave"/>
   </h1>
 </div>
